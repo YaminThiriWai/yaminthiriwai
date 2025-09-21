@@ -12,10 +12,10 @@ I enjoy building projects, exploring datasets, and applying AI to solve real-wor
 * Interested in **AI, Data Science, and NLP applications**
 * Always learning and experimenting with new technologies
 
-👉 Explore more of my work on my [Portfolio Website](https://yaminthiriwai.github.io/portfolio/)
+Explore more of my work on my [Portfolio Website](https://yaminthiriwai.github.io/portfolio/)
 
 ## Connect with Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/yaminthiriwai)
-* 📧 Email: [yaminthiriwai@gmail.com](mailto:yaminthiriwai@gmail.com)
-* 🐙 [GitHub](https://github.com/yaminthiriwai)
+* [LinkedIn](https://www.linkedin.com/in/yaminthiriwai)
+* Email: [yaminthiriwai@gmail.com](mailto:yaminthiriwai@gmail.com)
+* [GitHub](https://github.com/yaminthiriwai)
