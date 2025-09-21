@@ -17,5 +17,4 @@ Explore more of my work on my [Portfolio Website](https://yaminthiriwai.github.i
 ## Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/yamin-thiri-wai/) 
-* Email: [yaminthiriwai@gmail.com](mailto:yaminthiriwai@gmail.com)
-* [GitHub](https://github.com/yaminthiriwai)
+* Email: [yaminthiriwai@gmail.com](mailto:waiyaminthiri12@gmail.com)
