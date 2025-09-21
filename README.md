@@ -1,13 +1,21 @@
-Hi there 👋
+**Yamin Thiri Wai**
 
-- 🔭 Currently exploring the realms of Data Science and Natural Language Processing (NLP) as a Computer Science student at Ton Duc Thang University.
+Hi, I’m **Yamin Thiri Wai**, a Computer Science undergraduate passionate about **Data Science, Machine Learning, Deep Learning, and NLP**.
+I enjoy building projects, exploring datasets, and applying AI to solve real-world problems.
 
-- 👯 Open to collaboration on projects related to Data Science, NLP, and technology.
+**Portfolio Website:** [yaminthiriwai.github.io/portfolio](https://yaminthiriwai.github.io/portfolio/)
 
-- 🤔 Seeking assistance with staying updated on the latest trends in Data Science and NLP.
+## About Me
 
-- 💬 Feel free to ask me about my journey into Data Science, NLP, and technology.
+* Final-year Computer Science student at Ton Duc Thang University (Vietnam)
+* Originally from Yangon, Myanmar
+* Interested in **AI, Data Science, and NLP applications**
+* Always learning and experimenting with new technologies
 
-- 📫 Reach me at: waiyaminthiri12@gmail.com
+👉 Explore more of my work on my [Portfolio Website](https://yaminthiriwai.github.io/portfolio/)
 
-- ⚡ Fun fact: I'm an avid reader of manhwa and webtoons, and you'll often find my mind wandering into fictional worlds. 📚✨
+## Connect with Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/yaminthiriwai)
+* 📧 Email: [yaminthiriwai@gmail.com](mailto:yaminthiriwai@gmail.com)
+* 🐙 [GitHub](https://github.com/yaminthiriwai)
